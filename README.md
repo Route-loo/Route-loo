@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm lu xinyan</h1>
-<h3 align="center">A student from NANJING FORESTRY UNIVERSITY</h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10394B&background=ACF1D2B7&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+HOMEPAGE;This+is+Lu+Xinyan+%E0%A9%AD+%E1%90%95%29%E0%A9%AD;A+student+from+NANJING+FORESTRY+UNIVERSITY)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm loo *^_^* </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=route-loo&label=Profile%20views&color=0e75b6&style=flat" alt="route-loo" /> </p>
 
